@@ -1,0 +1,34 @@
+[
+  {
+    "id": "REC-001",
+    "raw_text": "Customer: Maria Gonzalez, 34 years old. Contact: maria.g@outlook.com | +57 312 4567890. She purchased a Pro plan ($49/mo) on March 15, 2024. Renewal date: March 15, 2025. Support ticket #4821 open. Account status: active."
+  },
+  {
+    "id": "REC-002",
+    "raw_text": "Lead from web form. Name: Carlos Rios. No email provided. Phone: 311-9876543. Interested in Enterprise plan. Budget range: $500-1000/month. Company: TechCorp Latam. No specific renewal mentioned."
+  },
+  {
+    "id": "REC-003",
+    "raw_text": "CANCELLATION REQUEST - John Smith (jsmith@gmail.com) wants to cancel his Basic plan. Reason: found cheaper alternative. No phone on file. Last payment: $19 on Feb 1 2024. Account will expire Feb 28 2024."
+  },
+  {
+    "id": "REC-004",
+    "raw_text": "Prospecto: Ana Torres. Correo: ana.torres@empresa.co. Sin telefono. Interesada en plan Starter. Sin presupuesto definido. Primera consulta por LinkedIn."
+  },
+  {
+    "id": "REC-005",
+    "raw_text": "CORRUPTED RECORD - ???@???.com - plan: UNKNOWN - $$$"
+  },
+  {
+    "id": "REC-006",
+    "raw_text": "B2B Contact: Liu Wei, CTO at Shanghai Innovations. Email: l.wei@sh-innov.cn. WhatsApp: +86 138 0013 8000. Evaluating team licenses (10 seats). Quote requested for annual billing. Decision deadline: end of Q2."
+  },
+  {
+    "id": "REC-007",
+    "raw_text": "Renewal alert: Diego Ramirez (d.ramirez@corp.mx, 55-1234-5678). Current plan: Business ($199/mo). Renewal in 7 days. Has 3 sub-accounts. Upsell opportunity to Enterprise flagged by sales team."
+  },
+  {
+    "id": "REC-008",
+    "raw_text": "Support note only - user called to ask about pricing. Did not leave name or contact info. Interested in knowing if we have a free tier."
+  }
+]
