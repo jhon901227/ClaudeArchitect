@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npx prisma migrate dev *)",
+      "Bash(npx prisma generate)",
+      "Bash(git status)",
+      "Bash(git diff *)",
+      "Bash(git log *)",
+      "Bash(git branch *)",
+      "Bash(npm audit)"
+    ],
+    "deny": [
+      "Bash(prisma migrate reset)",
+      "Bash(prisma db push)",
+      "Bash(rm -rf *)",
+      "Bash(git push --force*)",
+      "Read(.env)",
+      "Read(.env.*)",
+      "Read(secrets/**)",
+      "Write(src/frontend/generated/**)"
+    ]
+  },
+  "env": {
+    "NODE_ENV": "development",
+    "DATABASE_URL": "postgresql://localhost:5432/taskflow_dev"
+  }
+}
